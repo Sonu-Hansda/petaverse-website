@@ -32,8 +32,8 @@ export default function Footer() {
           
           <div>
             <h4 className="font-bold mb-4">Contact</h4>
-            <p className="text-gray-400 mb-2">hello@petaverse.com</p>
-            <p className="text-gray-400">+1 (555) 123-4567</p>
+            <p className="text-gray-400 mb-2">team@petaverse.com</p>
+            <p className="text-gray-400">+91 7033167930</p>
           </div>
         </div>
         
