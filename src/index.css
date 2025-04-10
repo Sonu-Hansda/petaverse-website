@@ -1,5 +1,15 @@
 @import "tailwindcss";
 
+.dropdown-enter {
+  opacity: 0;
+  transform: translateY(-10px);
+}
+.dropdown-enter-active {
+  opacity: 1;
+  transform: translateY(0);
+  transition: all 0.3s ease-in-out;
+}
+
 @keyframes float1 {
   0%,
   100% {
